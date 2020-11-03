@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+
+/* font-family: 'Maven Pro', sans-serif; */
+/* font-family: 'PT Serif', serif; */
+
+.App {
+  font-family: 'Maven Pro', sans-serif;
+};
