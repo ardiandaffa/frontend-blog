@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/front-end-blog-API/static/css/main.9cd6b8af.chunk.css",
+    "main.js": "/front-end-blog-API/static/js/main.d5f28855.chunk.js",
+    "main.js.map": "/front-end-blog-API/static/js/main.d5f28855.chunk.js.map",
+    "runtime-main.js": "/front-end-blog-API/static/js/runtime-main.959aa228.js",
+    "runtime-main.js.map": "/front-end-blog-API/static/js/runtime-main.959aa228.js.map",
+    "static/css/2.679831fc.chunk.css": "/front-end-blog-API/static/css/2.679831fc.chunk.css",
+    "static/js/2.43ef38fc.chunk.js": "/front-end-blog-API/static/js/2.43ef38fc.chunk.js",
+    "static/js/2.43ef38fc.chunk.js.map": "/front-end-blog-API/static/js/2.43ef38fc.chunk.js.map",
+    "static/js/3.b96a8780.chunk.js": "/front-end-blog-API/static/js/3.b96a8780.chunk.js",
+    "static/js/3.b96a8780.chunk.js.map": "/front-end-blog-API/static/js/3.b96a8780.chunk.js.map",
+    "index.html": "/front-end-blog-API/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/front-end-blog-API/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.9cd6b8af.chunk.css.map": "/front-end-blog-API/static/css/main.9cd6b8af.chunk.css.map",
+    "static/js/2.43ef38fc.chunk.js.LICENSE.txt": "/front-end-blog-API/static/js/2.43ef38fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.959aa228.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.43ef38fc.chunk.js",
+    "static/css/main.9cd6b8af.chunk.css",
+    "static/js/main.d5f28855.chunk.js"
+  ]
+}
